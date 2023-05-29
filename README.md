@@ -1,6 +1,6 @@
 ## Stats
 [![Anurghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=cartert27&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartert27)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartert27&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
