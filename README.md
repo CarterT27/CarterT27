@@ -6,7 +6,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a first-year Data Science, Math-Economics major at University of California, San Diego. I enjoy learning about quantitative trading, playing and betting on tennis, and making random programming projects here and there.</p>
+    <p>I'm a Data Science, Math-Economics major at University of California, San Diego. I enjoy learning about quantitative trading, playing and betting on tennis, and making random programming projects here and there.</p>
 </div>
 
 <div align="center">
