@@ -50,8 +50,8 @@
 
 ## 📈 Stats
 
-<p align="center">
-    [![CarterT27's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartert27&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![CarterT27's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartert27&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
     As you can see, I love Python. I'm currently learning more about JavaScript for web development and C++ for high-performance computing.
 </p>
