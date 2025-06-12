@@ -7,9 +7,9 @@
 <div align="center">
     <h2>🧠 Who Am I?</h2>
     <p>
-        I'm Carter Tran — currently studying Data Science and Math-Econ at UC San Diego 🐢.<br>
+        I'm Carter Tran — currently studying Computer Science at the University of Chicago 🐢.<br>
         I spend my time bouncing between studying cafes, coding late-night projects, and training ML models for competitions and research.<br>
-        When I'm not wrangling data, you'll probably find me looking for new restaurants, driving around Southern California, or playing the LinkedIn puzzles 🧩.
+        When I'm not wrangling data, you'll probably find me looking for new restaurants, or playing the LinkedIn puzzles 🧩.
     </p>
 </div>
 
@@ -18,7 +18,7 @@
     <ul align="left">
         <li>🔬 I do neuroscience research involving seizure detection and Transformer models.</li>
         <li>💸 I compete in quant finance competitions like IMC Prosperity, QuantConnect's League, and WorldQuant IQC.</li>
-        <li>💻 I like building random projects with Next.js, Framer Motion, and whatever else seems cool at 2AM.</li>
+        <li>💻 I like building random projects with Next.js, finetuning models, and whatever else seems cool at 2AM.</li>
         <li>☕ I'm also a TA — teaching algorithmic problem solving and data structures in Python and Java.</li>
         <li>🌲 This summer, I'll be in Seattle as an SDE intern @ Amazon.</li>
     </ul>
