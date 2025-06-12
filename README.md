@@ -19,7 +19,6 @@
         <li>🔬 I do neuroscience research involving seizure detection and Transformer models.</li>
         <li>💸 I compete in quant finance competitions like IMC Prosperity, QuantConnect's League, and WorldQuant IQC.</li>
         <li>💻 I like building random projects with Next.js, finetuning models, and whatever else seems cool at 2AM.</li>
-        <li>☕ I'm also a TA — teaching algorithmic problem solving and data structures in Python and Java.</li>
         <li>🌲 This summer, I'll be in Seattle as an SDE intern @ Amazon.</li>
     </ul>
 </div>
