@@ -23,6 +23,8 @@
 
 ## 📈 Stats
 
+Note: This is mostly based on my vim usage. A lot of my coding these days is using agents like Codex and Claude Code, which I'm too lazy to set up tracking for. I use Markdown for note taking and Typst for math homework/notes.
+
 <!--START_SECTION:waka-->
 
 ```txt
