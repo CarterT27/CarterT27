@@ -28,9 +28,9 @@ Note: This is mostly based on my vim usage. A lot of my coding these days is usi
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 4 mins           ████████████▒░░░░░░░░░░░░   48.94 %
-Other        29 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-Python       14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Markdown     1 hr 4 mins           ████████████▒░░░░░░░░░░░░   48.96 %
+Other        29 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+Python       14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
 JavaScript   8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
 netrw        6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
