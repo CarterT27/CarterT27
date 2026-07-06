@@ -28,7 +28,10 @@ Note: This is mostly based on my vim usage. A lot of my coding these days is usi
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       12 mins               ████████████▓░░░░░░░░░░░░   50.62 %
+Markdown   11 mins               ███████████▒░░░░░░░░░░░░░   45.61 %
+Other      0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+netrw      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
