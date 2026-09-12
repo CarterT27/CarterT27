@@ -28,11 +28,11 @@ Note: This is mostly based on my vim usage. A lot of my coding these days is usi
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 42 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-Python       1 hr 29 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Other        1 hr 26 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-C++          1 hr 20 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-YAML         1 hr 8 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Rust         2 hrs 42 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+Other        1 hr 23 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Python       1 hr 21 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+C++          1 hr 20 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+YAML         1 hr 8 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 ```
 
 <!--END_SECTION:waka-->
