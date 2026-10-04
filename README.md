@@ -28,9 +28,9 @@ Note: This is mostly based on my vim usage. A lot of my coding these days is usi
 <!--START_SECTION:waka-->
 
 ```txt
-Python       17 hrs 2 mins         ████████████████████░░░░░   79.55 %
-Other        1 hr 57 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-C++          1 hr 34 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Python       17 hrs 2 mins         ████████████████████░░░░░   79.48 %
+Other        1 hr 57 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+C++          1 hr 34 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
 JSON         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 HTML         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
