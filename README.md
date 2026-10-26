@@ -28,11 +28,11 @@ Note: This is mostly based on my vim usage. A lot of my coding these days is usi
 <!--START_SECTION:waka-->
 
 ```txt
-Other        12 hrs 20 mins        ██████████████▒░░░░░░░░░░   57.89 %
-Markdown     3 hrs 51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
-Python       1 hr 4 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-TypeScript   59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-YAML         52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Other          12 hrs 39 mins        ████████████████▓░░░░░░░░   67.07 %
+Markdown       1 hr 21 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+TypeScript     59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+YAML           52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Typst          33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
